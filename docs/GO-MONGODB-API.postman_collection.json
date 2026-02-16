@@ -1,0 +1,29 @@
+{
+  "info": {
+    "_postman_id": "81d53f49-e643-4b76-a8ce-cfdcea3afbef",
+    "name": "Bootcamp",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "20900807"
+  },
+  "item": [
+    {
+      "name": "Get Request",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://postman-echo.com/get",
+          "protocol": "https",
+          "host": [
+            "postman-echo",
+            "com"
+          ],
+          "path": [
+            "get"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
